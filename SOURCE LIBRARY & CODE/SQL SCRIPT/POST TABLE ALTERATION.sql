@@ -1,0 +1,1 @@
+alter table post add column sub_genre varchar(50) default 'NONE';
